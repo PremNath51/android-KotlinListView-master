@@ -10,10 +10,6 @@ import android.widget.TextView
 import bett.com.kotlinlistview.R
 import bett.com.kotlinlistview.dtos.UserDto
 
-
-/**
- * Created by bett on 8/21/17.
- */
 class UserListAdapter(private var activity: Activity, private var items: ArrayList<UserDto>): BaseAdapter() {
 //    var items = ArrayList<UserDto>()
 //    var activity: Activity? = null
