@@ -122,10 +122,3 @@ fun generateData(): ArrayList<UserDto> {
 
     return result
 }
-```
-
-## Contact
-Drop me an email if you want discuss anything further. [Email](betranthanh@gmail.com)
-
-## License
-Licensed under the MIT license.
